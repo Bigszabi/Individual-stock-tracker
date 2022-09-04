@@ -5,3 +5,5 @@ __pycache__/
 .venv/
 virtualenv/
 *.pyc
+.editorconfig
+.pylintrc
