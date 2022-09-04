@@ -1,0 +1,1 @@
+For the program to work, register at alphavantage.co and get an API key. Then, create a file called .env in the root directory of the project and set the API key as the environment variable named "ALPHAVANTAGE_API_KEY". You can change the stock symbol in the main.py file and also the notification difference percentage.
